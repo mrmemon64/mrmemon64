@@ -18,10 +18,3 @@ A tech explorer and passionate Cyber Security student from India. I love learnin
 *“The quieter you become, the more you are able to hear.”*
 
 ---
-
-### 📊 My GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrmemon64&show_icons=true&theme=tokyonight&count_private=true" alt="Aliasgar's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmemon64&theme=tokyonight" alt="Aliasgar's Streak Stats" height="180px" />
-</p>
